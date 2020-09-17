@@ -1,0 +1,17 @@
+INDEX VERSION 1.126
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\363173912.index
+\ProjetJEE\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3819846914.index
+\Projet_jee\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2994844615.index
+\ProjetJEE\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\346080036.index
+\projetjee\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1589963307.index
+\projetjee\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1293100421.index
+\projetpret\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1786603024.index
+\projetpret\src
+C:\Users\aya\Projet-jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3889838035.index
+\Projet_jee\src
